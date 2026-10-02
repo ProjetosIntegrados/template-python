@@ -120,13 +120,7 @@ Remova ou substitua os textos de exemplo e os placeholders.
 
 ## 9. Autores e referências
 
-Preencha a seção `Autores` com todos os alunos e professores envolvidos.
-
-Informe:
-
-* disciplina;
-* curso;
-* semestre.
+Preencha a seção `Autores` com todos os alunos (semestre da turma) e professores envolvidos.
 
 Na seção `Referências`, registre as principais fontes técnicas utilizadas no desenvolvimento, como normas, artigos, livros e documentação de bibliotecas.
 
@@ -145,11 +139,7 @@ Antes do primeiro commit, verifique:
 * [ ] semestre informado;
 * [ ] README revisado;
 * [ ] licença revisada;
-* [ ] testes executando;
-* [ ] exemplos organizados;
-* [ ] documentação organizada;
 * [ ] nenhum dado pessoal desnecessário incluído;
-* [ ] nenhuma senha, chave ou token incluído.
 
 Depois de concluir a configuração, exclua:
 
